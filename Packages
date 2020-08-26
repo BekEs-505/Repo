@@ -1,3 +1,20 @@
+Package: com.bekes-505.github.io.deadtweak
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: BekEs <b6.6s500005@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Filename: debs//com.bekes-505.github.io_1.7.1_iphoneos-arm_NeutronFile.deb
+Size: 5078646
+MD5sum: 3ae6c706253a0b6caadcb4c15ded487f
+SHA1: f050b8061c8746f7ff2553ebd97391b188b18f44
+SHA256: 1087d5970e6b029bd548797bec70b22ed44dff16cc706560fc5a5459fe5dfa4c
+Description: اداة سناب بريك الاصلية لرفع وحفظ واشياء ترتيب
+Name: DeadTweak
+Author: BekEs - بيكاس
+Depiction: https://bekes-505.github.io/Repo/depic/DeadTweak.html
+Sponsor: BekEs
+
 Package: org.protonfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
